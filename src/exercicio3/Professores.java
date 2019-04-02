@@ -10,7 +10,8 @@ package exercicio3;
  * @author ifnmg
  */
 public class Professores {
-     String formação;
-    String disciplinas;
+    
+    String formação;
+    String nome;
     double salario;  
 }
